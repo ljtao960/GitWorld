@@ -10,5 +10,8 @@ void main(void){
      else
          printf("hello");
 
+
+    print("THis is date 20190223");
+
     return 0;
 }
